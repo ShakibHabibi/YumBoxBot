@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="commons-io-2.5">
+    <CLASSES>
+      <root url="jar://D:/GH/bot/commons-io-2.5.jar!/" />
+      <root url="jar://D:/GH/bot/gson-2.6.2.jar!/" />
+      <root url="jar://D:/GH/bot/java-telegram-bot-api-2.1.2.jar!/" />
+      <root url="jar://D:/GH/bot/okhttp-3.4.1.jar!/" />
+      <root url="jar://D:/GH/bot/okio-1.10.0.jar!/" />
+      <root url="jar://D:/GH/bot/telegrambots-2.3.5-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
